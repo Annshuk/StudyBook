@@ -1,0 +1,5 @@
+TODO Example how to do - 
+http://sdaityari.github.io/to-do-list/
+http://todomvc.com/examples/angularjs/#/
+http://docs.railsbridge.org/javascript-to-do-list/
+http://thewebrocks.com/publications/smashingbook3/todolist/
